@@ -2,7 +2,8 @@
 
 This project visualizes the daily **confirmed COVID-19 cases in Maharashtra**, India, using both **bar and line plots**. It helps in understanding the daily trends in case numbers during the pandemic.
 
-![Plot Preview]![image](https://github.com/user-attachments/assets/3dddd47b-08b6-478f-aa22-cf6a0b8c6549)
+PLOT PREVIEW
+![image](https://github.com/user-attachments/assets/3dddd47b-08b6-478f-aa22-cf6a0b8c6549)
 
 ---
 
