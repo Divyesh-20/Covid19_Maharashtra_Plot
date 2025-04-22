@@ -18,8 +18,7 @@ A simplified CSV file with sample data for:
 
 ## 📷 Sample Output
 
-![Plot](![image](https://github.com/user-attachments/assets/d9326c95-8b99-4d52-a5b3-e19b1f3794bd)
-)  <!-- (if you upload your plot image here) -->
+![Plot](![image](https://github.com/user-attachments/assets/d9326c95-8b99-4d52-a5b3-e19b1f3794bd))  <!-- (if you upload your plot image here) -->
 
 ## 🛠️ Tools & Technologies
 
@@ -45,4 +44,3 @@ A simplified CSV file with sample data for:
 - [LinkedIn Profile](#) *((https://github.com/Divyesh-20))*
 
 ```
-
