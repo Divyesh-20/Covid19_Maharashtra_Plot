@@ -1,89 +1,48 @@
-# 🦠 COVID-19 Daily Confirmed Cases – Maharashtra
+# 📊 COVID-19 Maharashtra Plot
 
-This project visualizes the daily **confirmed COVID-19 cases in Maharashtra**, India, using both **bar and line plots**. It helps in understanding the daily trends in case numbers during the pandemic.
+This project visualizes the early spread of COVID-19 in Maharashtra using Python, Pandas, and Matplotlib.
 
-PLOT PREVIEW
-![image](https://github.com/user-attachments/assets/3dddd47b-08b6-478f-aa22-cf6a0b8c6549)
+## 📁 Dataset
 
----
+A simplified CSV file with sample data for:
+- Dates (March 2020)
+- Confirmed cases
+- Recoveries
+- Deaths
 
 ## 📌 Features
 
-- 📅 Daily confirmed case data
-- 📊 Combined **bar and line graph** for easy comparison
-- 🔎 Focus on a single state (Maharashtra) from a national dataset
-- 🐍 Built with Python, `pandas`, and `matplotlib`
+- Reads and processes CSV data
+- Converts date column to datetime
+- Plots a time-series graph of confirmed cases
 
----
+## 📷 Sample Output
 
-## 📁 Files Included
+![Plot](![image](https://github.com/user-attachments/assets/d9326c95-8b99-4d52-a5b3-e19b1f3794bd)
+)  <!-- (if you upload your plot image here) -->
 
-| File Name                | Description                                        |
-|--------------------------|----------------------------------------------------|
-| `india_covid19_data.csv` | CSV file containing COVID-19 data for Indian states |
-| `covid_analysis.ipynb`   | Jupyter notebook for filtering and plotting the data |
-| `README.md`              | Project overview and usage instructions             |
+## 🛠️ Tools & Technologies
 
----
+- Python
+- Pandas
+- Matplotlib
+- Jupyter Notebook
 
 ## 🚀 How to Run
 
-### 1. Clone the Repository
+1. Clone the repository  
+   ```bash
+   git clone https://github.com/Divyesh-20/Covid19_Maharashtra_Plot.git
+   cd Covid19_Maharashtra_Plot
+   ```
 
-```bash
-git clone https://github.com/Divyesh-20/Covid19_Maharashtra_Plot.git
-cd Covid19_Maharashtra_Plot
+2. Open the notebook in Jupyter  
+3. Run the cells to see the data processing and plot
+
+## ✍️ Author
+
+- **Divyesh Shinde**
+- [LinkedIn Profile](#) *((https://github.com/Divyesh-20))*
+
 ```
 
-### 2. Install Dependencies
-
-Make sure you have Python 3.x installed, then:
-
-```bash
-pip install pandas matplotlib
-```
-
-### 3. Run the Notebook
-
-Launch Jupyter Notebook or JupyterLab, then open `covid_analysis.ipynb` and run the cells step-by-step.
-
----
-
-## 📊 Example Output
-
-You’ll get a clear, combined **bar and line chart** showing daily confirmed COVID-19 cases in Maharashtra like this:
-
-- **Bars**: Daily reported confirmed cases
-- **Line**: The same data overlaid for visual clarity
-
-*![image](https://github.com/user-attachments/assets/3dddd47b-08b6-478f-aa22-cf6a0b8c6549)*
-
----
-
-## 📚 Data Source
-
-The dataset used in this project is presumed to be collected from official COVID-19 data reporting platforms such as:
-
-- [covid19india.org](https://www.covid19india.org) *(deprecated)*
-- [Ministry of Health and Family Welfare, India](https://www.mohfw.gov.in/)
-- Any publicly available COVID-19 data aggregators
-
----
-
-## 📄 License
-
-This project is open-source and free to use. You may adapt, improve, or share it as needed. Consider adding a specific license (e.g., MIT) if needed.
-
----
-
-## 🙏 Acknowledgments
-
-- Built with ❤️ by [Divyesh](https://github.com/Divyesh-20)
-- Visualization inspired by the need to monitor state-level COVID-19 trends
-- Thanks to all the data providers and healthcare workers involved in the pandemic response
-
----
-
-## 🤝 Contributions
-
-Pull requests and suggestions are welcome! Feel free to fork this repository and improve upon it.
