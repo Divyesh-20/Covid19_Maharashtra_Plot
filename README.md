@@ -42,5 +42,3 @@ A simplified CSV file with sample data for:
 
 - **Divyesh Shinde**
 - [LinkedIn Profile](#) *((https://github.com/Divyesh-20))*
-
-```
