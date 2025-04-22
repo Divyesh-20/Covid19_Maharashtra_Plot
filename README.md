@@ -2,8 +2,7 @@
 
 This project visualizes the daily **confirmed COVID-19 cases in Maharashtra**, India, using both **bar and line plots**. It helps in understanding the daily trends in case numbers during the pandemic.
 
-![Plot Preview](![image](https://github.com/user-attachments/assets/17fec685-3994-4d98-bd8d-2aebfc13f4d5)
-)
+![Plot Preview](![image]("C:\Users\shind\OneDrive\Pictures\Screenshots\Screenshot 2025-04-22 194525.png"))
 
 ---
 
@@ -56,7 +55,7 @@ You’ll get a clear, combined **bar and line chart** showing daily confirmed CO
 - **Bars**: Daily reported confirmed cases
 - **Line**: The same data overlaid for visual clarity
 
-*(Insert a screenshot here of your actual output)*
+*(![image](https://github.com/user-attachments/assets/3dddd47b-08b6-478f-aa22-cf6a0b8c6549))*
 
 ---
 
